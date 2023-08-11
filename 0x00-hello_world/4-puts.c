@@ -1,7 +1,7 @@
 #include <stdio.h>
-/** 
- * main - this c file program uses puts instead of printf
- * return : 0
+/**
+ * main: this c file program uses puts instead of printf
+ * return: zero
  */
 int main(void)
 {
