@@ -1,7 +1,9 @@
 #include <stdio.h>
 /**
- * main: this c file program uses puts instead of printf
- * return: zero
+ * main - Prints quote
+ *
+ * Return: zero on success
+ *
  */
 int main(void)
 {
