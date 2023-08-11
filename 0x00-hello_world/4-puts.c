@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-/** this c file program uses puts instead of printf */
+/** main : this c file program uses puts instead of printf */
 
 int main(void)
 {
