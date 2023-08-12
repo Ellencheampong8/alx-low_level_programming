@@ -2,12 +2,12 @@
 
 /**
  * main - Writes 001 - 999
- * @void: Empty parameter list for main.
+ * void: Empty parameters mean it is not going receive any argurment.
  *
  * Description: Writes all unique combinations
- * of 3 numbers
+ * of the 3 numbers
  *
- * Return: 0 for success
+ * Return: 0 o its success
 */
 int main(void)
 {

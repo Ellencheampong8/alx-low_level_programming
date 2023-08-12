@@ -4,12 +4,12 @@
 
 /**
  * main - Prints alphabet
- * @void: Empty parameter list for main.
+ * void: Empty parameters mean it is not going receive any argurment.
  *
- * Description: Prints the alphabet in reverse order
- * Can only use putchar
+ * Description: Prints the alphabets in reverse order
+ * can only use the putchar
  *
- * Return: 0 for success
+ * Return: 0 on success
 */
 int main(void)
 {

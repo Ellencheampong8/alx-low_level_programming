@@ -4,11 +4,11 @@
 
 /**
  * main - Prints base 16
- * @void: Empty parameter list for main.
+ * void: Empty parameters mean it is not going receive any argurment.
  *
- * Description: Prints all hexadecimals
+ * Description: Prints all the hexadecimals
  *
- * Return: 0 for success
+ * Return: 0 on success
 */
 int main(void)
 {
@@ -30,4 +30,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-

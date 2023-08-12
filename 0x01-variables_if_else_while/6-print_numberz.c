@@ -4,11 +4,11 @@
 
 /**
  * main - Prints base 10 numbers
- * @void: Empty parameter list for main.
+ * void: Empty parameters mean it is not going receive any argurment.
  *
- * Description: Prints numbers 0-9
+ * Description: Prints the numbers 0-9
  *
- * Return: 0 for success
+ * Return: 0 on success
 */
 int main(void)
 {

@@ -4,11 +4,11 @@
 
 /**
  * main - Prints alphabet
- * @void: Empty parameter list for main.
+ * void: Empty parameters mean it is not going receive any argurment.
  *
  * Description: Prints the alphabet in lower case
  * Skip q and e
- * Can only use putchar
+ * an only use putchar
  *
  * Return: 0 for success
 */

@@ -4,11 +4,11 @@
 
 /**
  * main - writes 0-9
- * @void: Empty parameter list for main.
+ * void: Empty parameters mean it is not going receive any argurment.
  *
- * Description: Writes 0-9 with comma and space
+ * Description: Writes numbers 0-9 with comma and space
  *
- * Return: 0 for success
+ * Return: 0 on success
 */
 int main(void)
 {
