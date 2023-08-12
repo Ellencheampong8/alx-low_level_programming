@@ -4,13 +4,13 @@
 
 /**
  * main - Positive or Negative - print sign of random number
- * @void: Empty parameter list for main.
+ * void: Empty parameter to mean it doesn't receive anything.
  *
- * Description: this if/else statement delares the sign (positive
+ * Description: this if/else statement that delares the sign (positive
  * or negative) of a random number. It also states if the value
  * is zero.
  *
- * Return: 0 for success
+ * Return: 0 on success
 */
 int main(void)
 {
@@ -39,8 +39,3 @@ int main(void)
 	return (0);
 }
 
-#include <stdlib.h>
-#include <time.h>
-/* more headers goes there */
-
-/* betty style doc for function main goes there */
