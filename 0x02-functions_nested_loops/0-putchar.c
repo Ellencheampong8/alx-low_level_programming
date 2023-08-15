@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * main - Prints _putchar
+ * main - prints _putchar
  * @void: Receives empty parameters.
- *
- * Description: It prints _putchar
  *
  * Return: zero(0) on success
 */
