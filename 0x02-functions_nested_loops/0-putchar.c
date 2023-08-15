@@ -1,7 +1,8 @@
 #include "main.h"
+
 /**
  * main - prints _putchar
- * void - accepts the void
+ * void: accepts the void
  *
  * Description: prints _putchar
  *
