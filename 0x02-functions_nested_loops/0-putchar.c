@@ -2,11 +2,11 @@
 
 /**
  * main - Prints _putchar
- * void: Empty parameter.
+ * void: Empty parameters
  *
  * Description: It prints _putchar
  *
- * Return: zero on success
+ * Return: 0 on success
  **/
 
 int main(void)
