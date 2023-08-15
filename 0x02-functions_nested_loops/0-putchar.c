@@ -1,7 +1,6 @@
 #include "main.h"
 /**
  * main - prints _putchar
- * @void: Receives empty parameters.
  *
  * Return: zero(0) on success
 */
