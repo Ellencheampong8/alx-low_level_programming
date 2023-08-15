@@ -1,5 +1,4 @@
 #include "main.h"
-
 /**
  * main - prints _putchar
  * @void: Receives empty parameters.
