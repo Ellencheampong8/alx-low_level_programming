@@ -7,7 +7,8 @@
  * Description: It prints _putchar
  *
  * Return: zero on success
- */
+*/
+
 int main(void)
 {
         _putchar('_');
