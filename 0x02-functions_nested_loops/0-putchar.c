@@ -2,7 +2,9 @@
 /**
  * main - prints _putchar
  *
- * Return: zero(0) on success
+ * void - accepts the void
+ *
+ * Return: 0 on success
 */
 
 int main(void)
