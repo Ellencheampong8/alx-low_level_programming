@@ -1,12 +1,12 @@
 #include "main.h"
 
 /**
- * main - prints _putchar
- * void: accepts the void
+ * main - Prints _putchar
+ * void: Empty parameter.
  *
- * Description: prints _putchar
+ * Description: It prints _putchar
  *
- * Return: 0 on success
+ * Return: zero on successs
 */
 
 int main(void)
