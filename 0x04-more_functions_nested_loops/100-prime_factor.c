@@ -1,33 +1,20 @@
-#include "main.h"
 #include <stdio.h>
+#include "main.h"
 /**
- * main - find prime number
- *
- * Description: find largest prime number of 612852475143
- *
- * Return: zero
+ * main - prints the largest prime factor of 612852475143
+ * Bwave ICT / Bright Daniel
+ * Return: always 0
  **/
 
 int main(void)
 {
-	long int max, lower, test;
+	unsigned long int i, n = 612852475143;
 
-	max = 612852475143;
-	lower = 2;
-	test = 2;
-
-	while (max > test)
+	for (i = 3; i < 782849; i = i + 2)
 	{
-		if (max % test == 0)
-		{
-			lower = test;
-			max = max / lower;
-			test = lower + 1;
-		}
-		else
-			test++;
+		while ((n % i == 0) && (n != i))
+			n = n / i;
 	}
-	printf("%ld\n", max);
+	printf("%lu\n", n);
 	return (0);
 }
-
