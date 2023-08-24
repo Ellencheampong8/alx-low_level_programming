@@ -1,5 +1,14 @@
 #include <stdio.h>
 
+/**
+ * main - this prints a[2] = 98
+ * @n: buffer to print
+ * @a: bytes of buffer to print
+ * @*p: line of buffer to print
+ *
+ * Return: void
+ */
+
 int main(void)
 {
   int n;
